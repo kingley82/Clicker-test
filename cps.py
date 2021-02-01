@@ -14,7 +14,7 @@ def clicks():
 	c += 1
 	text2.config(text = c)
 
-# Dont use in final version
+# Not used in the final version
 # def ttime():
 # 	global time
 # 	time -= 1
